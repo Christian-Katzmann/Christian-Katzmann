@@ -21,7 +21,11 @@ Building AI tools, agent workflows, developer infrastructure, and tiny useful sy
 
 <p align="center">
   <a href="https://github.com/Christian-Katzmann?tab=repositories">
-    <img src="assets/profile/repo-arcade.png" width="100%" alt="Repo Arcade">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/profile/repo-arcade.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/profile/repo-arcade-light.svg">
+      <img src="assets/profile/repo-arcade-light.svg" width="100%" alt="Repo Arcade">
+    </picture>
   </a>
 </p>
 

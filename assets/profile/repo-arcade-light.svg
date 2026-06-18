@@ -1,0 +1,68 @@
+<svg width="1672" height="941" viewBox="0 0 1672 941" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1672" height="941" rx="28" fill="#f6f8fa"/>
+  <rect x="34" y="34" width="1604" height="873" rx="24" fill="#ffffff" stroke="#d0d7de" stroke-width="3"/>
+  <rect x="72" y="72" width="1528" height="190" rx="20" fill="#0d1117"/>
+  <text x="132" y="154" fill="#f0f6fc" font-size="78" font-weight="900" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">REPO ARCADE</text>
+  <text x="137" y="211" fill="#7ee787" font-size="28" font-family="Inter, Arial, sans-serif">Light mode cabinet: clean UI outside, weird machines inside.</text>
+  <circle cx="1460" cy="137" r="28" fill="#3fb950"/>
+  <circle cx="1530" cy="137" r="28" fill="#58a6ff"/>
+  <circle cx="1390" cy="137" r="28" fill="#f2cc60"/>
+
+  <g transform="translate(72 305)">
+    <rect width="460" height="244" rx="22" fill="#ffffff" stroke="#00a3b5" stroke-width="4"/>
+    <rect x="24" y="24" width="128" height="128" rx="20" fill="#e6fffb" stroke="#00a3b5" stroke-width="3"/>
+    <text x="57" y="103" fill="#007d8a" font-size="54" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">&gt;_</text>
+    <text x="178" y="65" fill="#0d1117" font-size="42" font-weight="900" font-family="Inter, Arial, sans-serif">app-it</text>
+    <text x="178" y="105" fill="#57606a" font-size="22" font-family="Inter, Arial, sans-serif">Mac Dock apps</text>
+    <text x="178" y="151" fill="#0969da" font-size="24" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">206 stars</text>
+    <rect x="24" y="180" width="390" height="28" rx="14" fill="#ddf4ff"/>
+    <rect x="24" y="180" width="330" height="28" rx="14" fill="#00a3b5"/>
+  </g>
+
+  <g transform="translate(606 305)">
+    <rect width="460" height="244" rx="22" fill="#ffffff" stroke="#1f883d" stroke-width="4"/>
+    <rect x="24" y="24" width="128" height="128" rx="20" fill="#dafbe1" stroke="#1f883d" stroke-width="3"/>
+    <path d="M88 47l44 18v33c0 32-20 52-44 64-24-12-44-32-44-64V65l44-18z" fill="#ffffff" stroke="#1f883d" stroke-width="7"/>
+    <path d="M70 97l15 15 31-39" stroke="#1f883d" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="178" y="65" fill="#0d1117" font-size="42" font-weight="900" font-family="Inter, Arial, sans-serif">dev-security</text>
+    <text x="178" y="105" fill="#57606a" font-size="22" font-family="Inter, Arial, sans-serif">Local-first scans</text>
+    <text x="178" y="151" fill="#1f883d" font-size="24" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">Python</text>
+    <rect x="24" y="180" width="390" height="28" rx="14" fill="#dafbe1"/>
+    <rect x="24" y="180" width="275" height="28" rx="14" fill="#1f883d"/>
+  </g>
+
+  <g transform="translate(1140 305)">
+    <rect width="460" height="244" rx="22" fill="#ffffff" stroke="#cf222e" stroke-width="4"/>
+    <rect x="24" y="24" width="128" height="128" rx="20" fill="#ffebe9" stroke="#cf222e" stroke-width="3"/>
+    <circle cx="80" cy="80" r="36" stroke="#cf222e" stroke-width="8"/>
+    <path d="M105 105l31 31" stroke="#cf222e" stroke-width="10" stroke-linecap="round"/>
+    <text x="178" y="65" fill="#0d1117" font-size="42" font-weight="900" font-family="Inter, Arial, sans-serif">repo-hunter</text>
+    <text x="178" y="105" fill="#57606a" font-size="22" font-family="Inter, Arial, sans-serif">Research runner</text>
+    <text x="178" y="151" fill="#cf222e" font-size="24" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">JavaScript</text>
+    <rect x="24" y="180" width="390" height="28" rx="14" fill="#ffebe9"/>
+    <rect x="24" y="180" width="300" height="28" rx="14" fill="#cf222e"/>
+  </g>
+
+  <g transform="translate(72 590)">
+    <rect width="460" height="220" rx="22" fill="#ffffff" stroke="#bf8700" stroke-width="4"/>
+    <text x="36" y="72" fill="#0d1117" font-size="42" font-weight="900" font-family="Inter, Arial, sans-serif">idea-bench</text>
+    <text x="36" y="113" fill="#57606a" font-size="22" font-family="Inter, Arial, sans-serif">Blind LLM ranking</text>
+    <text x="36" y="163" fill="#bf8700" font-size="24" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">TypeScript · evals</text>
+  </g>
+
+  <g transform="translate(606 590)">
+    <rect width="460" height="220" rx="22" fill="#ffffff" stroke="#0969da" stroke-width="4"/>
+    <text x="36" y="72" fill="#0d1117" font-size="42" font-weight="900" font-family="Inter, Arial, sans-serif">gitslip</text>
+    <text x="36" y="113" fill="#57606a" font-size="22" font-family="Inter, Arial, sans-serif">Push code, get URL</text>
+    <text x="36" y="163" fill="#0969da" font-size="24" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">deploy without ceremony</text>
+  </g>
+
+  <g transform="translate(1140 590)">
+    <rect width="460" height="220" rx="22" fill="#ffffff" stroke="#8250df" stroke-width="4"/>
+    <text x="36" y="72" fill="#0d1117" font-size="42" font-weight="900" font-family="Inter, Arial, sans-serif">plsmode</text>
+    <text x="36" y="113" fill="#57606a" font-size="22" font-family="Inter, Arial, sans-serif">VS Code command cockpit</text>
+    <text x="36" y="163" fill="#8250df" font-size="24" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">less memory tax</text>
+  </g>
+
+  <text x="72" y="872" fill="#57606a" font-size="24" font-family="Inter, Arial, sans-serif">This is the light-mode version. Dark-mode visitors see the neon arcade image instead.</text>
+</svg>
