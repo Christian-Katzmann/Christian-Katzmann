@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="assets/github-profile-chaos-lite.gif" width="72%" alt="Slow motion chaos loop">
+</p>
+
 <table>
   <tr>
     <td width="50%">
