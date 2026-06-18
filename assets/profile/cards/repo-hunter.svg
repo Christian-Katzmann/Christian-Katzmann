@@ -1,0 +1,14 @@
+<svg width="640" height="230" viewBox="0 0 640 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="230" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="638" height="228" rx="17" stroke="#ff7b72" stroke-opacity=".55" stroke-width="2"/>
+  <rect x="28" y="28" width="86" height="86" rx="16" fill="#24100f" stroke="#ff7b72" stroke-opacity=".7"/>
+  <circle cx="69" cy="68" r="24" stroke="#ffa198" stroke-width="6"/>
+  <path d="M86 85l22 22" stroke="#ffa198" stroke-width="7" stroke-linecap="round"/>
+  <text x="138" y="57" fill="#f0f6fc" font-size="34" font-weight="800" font-family="Inter, Arial, sans-serif">repo-hunter</text>
+  <text x="138" y="91" fill="#8b949e" font-size="18" font-family="Inter, Arial, sans-serif">AI research runner for long searches</text>
+  <text x="138" y="124" fill="#ff7b72" font-size="18" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">1 star</text>
+  <text x="245" y="124" fill="#f0f6fc" font-size="18" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">JavaScript</text>
+  <rect x="138" y="153" width="438" height="22" rx="11" fill="#161b22"/>
+  <rect x="138" y="153" width="300" height="22" rx="11" fill="#ff7b72"/>
+  <text x="138" y="200" fill="#ffa198" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">status: judgment at scale</text>
+</svg>

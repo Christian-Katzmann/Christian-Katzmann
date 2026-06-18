@@ -1,0 +1,14 @@
+<svg width="640" height="230" viewBox="0 0 640 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="230" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="638" height="228" rx="17" stroke="#3fb950" stroke-opacity=".55" stroke-width="2"/>
+  <rect x="28" y="28" width="86" height="86" rx="16" fill="#081b10" stroke="#3fb950" stroke-opacity=".7"/>
+  <path d="M71 43l31 12v25c0 22-14 36-31 44-17-8-31-22-31-44V55l31-12z" fill="#102b18" stroke="#7ee787" stroke-width="5"/>
+  <path d="M58 82l10 10 20-25" stroke="#7ee787" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="138" y="57" fill="#f0f6fc" font-size="34" font-weight="800" font-family="Inter, Arial, sans-serif">dev-security</text>
+  <text x="138" y="91" fill="#8b949e" font-size="18" font-family="Inter, Arial, sans-serif">Local-first security observability</text>
+  <text x="138" y="124" fill="#3fb950" font-size="18" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">4 stars</text>
+  <text x="245" y="124" fill="#f0f6fc" font-size="18" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">Python</text>
+  <rect x="138" y="153" width="438" height="22" rx="11" fill="#161b22"/>
+  <rect x="138" y="153" width="252" height="22" rx="11" fill="#3fb950"/>
+  <text x="138" y="200" fill="#7ee787" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">status: protects the builders</text>
+</svg>
