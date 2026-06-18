@@ -1,6 +1,10 @@
 <a id="repo-arcade"></a>
 
 <p align="center">
+  <img src="assets/github-profile-chaos-lite.gif" width="72%" alt="Slow motion chaos loop">
+</p>
+
+<p align="center">
   <a href="https://github.com/Christian-Katzmann?tab=repositories">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/profile/arcade/hero-dark.jpg">
@@ -8,10 +12,6 @@
       <img src="assets/profile/arcade/hero-light.jpg" width="100%" alt="Repo Arcade">
     </picture>
   </a>
-</p>
-
-<p align="center">
-  <img src="assets/github-profile-chaos-lite.gif" width="72%" alt="Slow motion chaos loop">
 </p>
 
 <table>
