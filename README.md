@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="#repo-arcade">
-    <img src="assets/profile/ai-command-center.png" width="100%" alt="AI Command Center">
-  </a>
-</p>
-
-<p align="center">
   <a href="#now"><img src="https://img.shields.io/badge/NOW-online-3fb950?style=for-the-badge&labelColor=0d1117"></a>
   <a href="#repo-arcade"><img src="https://img.shields.io/badge/REPO_ARCADE-play-00e5ff?style=for-the-badge&labelColor=0d1117"></a>
   <a href="#build-log"><img src="https://img.shields.io/badge/BUILD_LOG-read-f2cc60?style=for-the-badge&labelColor=0d1117"></a>
@@ -62,11 +56,7 @@ Building AI tools, agent workflows, developer infrastructure, and tiny useful sy
 
 ## Build Log
 
-<p align="center">
-  <a href="https://github.com/Christian-Katzmann/Christian-Katzmann/commits/main">
-    <img src="assets/profile/build-log.png" width="100%" alt="The Build Log">
-  </a>
-</p>
+[Latest profile commits](https://github.com/Christian-Katzmann/Christian-Katzmann/commits/main) · [All repositories](https://github.com/Christian-Katzmann?tab=repositories)
 
 <a id="machine-room"></a>
 
